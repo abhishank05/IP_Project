@@ -1,0 +1,25 @@
+=============================================
+ 📊 FULL PIPELINE ENTROPY ANALYSIS RESULTS
+=============================================
+1. Sampling               7.75 -> 7.63
+2. Quantization           7.75 -> 1.86
+3. Color Model (HSV)      7.75 -> 7.48
+4. Image Operations       7.75 -> 7.77
+5. Image Negative         7.72 -> 7.72
+6. Hist Equalization      7.72 -> 7.58
+7. Gaussian Smoothing     7.75 -> 7.24
+8. Laplacian Sharpen      7.72 -> 7.42
+9. FFT Magnitude          7.72 -> 6.04
+10. Image Pyramids         7.75 -> 7.51
+11. Median Restoration     7.46 -> 7.32
+12. Wavelet (LL Band)      7.72 -> 7.65
+13. JPEG Compression       7.75 -> 7.62
+14. Canny Edges            7.72 -> 0.88
+15. Otsu Threshold         7.72 -> 0.99
+16. Distance Transform     7.72 -> 2.12
+17. Region Segment         7.72 -> 0.89
+18. PCA Reduction          7.75 -> 7.60
+19. K-Means Clustering     7.75 -> 3.33
+20. Watermarking           7.75 -> 7.75
+21. Steganography          7.75 -> 7.75
+22. Compositing            7.75 -> 7.57
